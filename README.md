@@ -31,7 +31,7 @@ But I didn’t find any clue or hint. So, I need to discover secret or unlisted 
 
 There’re 2 outputs from here which are /server-status and /hidden_text. But server status will just lead me to 404 error. Then I search http://192.168.56.103/hidden.txt
 
-![image] ( https://github.com/miraaaa1910/BlueMoon-VulnHub-Walkthrough/blob/4449128214bf6a81de04c2d836b4aa9a08218426/image/Screenshot%202026-03-15%20133002.png)  
+![image](https://github.com/miraaaa1910/BlueMoon-VulnHub-Walkthrough/blob/1c901c63b0b5cbbe43cc806ff3b57336948c06fa/image/Screenshot%202026-03-15%20133002.png)
 
 At first glance it looks like a maintenance page with no information but when I look closely the ‘Thank You’ word is actually a clickable link. 
 
